@@ -4,7 +4,7 @@
 # Main purpose: to install and start lora_pkd_fwd in serves after background;
 # By Louis Chuang 2024-04-04.
 
-region="AS923_1"
+region="EU868"
 
 service_file="/etc/init.d/linxdot-lora-pkt-fwd"
 
